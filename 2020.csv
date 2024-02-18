@@ -1,0 +1,40 @@
+S. No (Col.1),Category (Col.2),State/UT (Col.3),Total Cognizable IPC Crimes - I (Col.426)
+1,State,Andhra Pradesh,188997
+2,State,Arunachal Pradesh,2244
+3,State,Assam,111558
+4,State,Bihar,194698
+5,State,Chhattisgarh,65216
+6,State,Goa,3393
+7,State,Gujarat,381849
+8,State,Haryana,103276
+9,State,Himachal Pradesh,14803
+10,State,Jammu & Kashmir,25233
+11,State,Jharkhand,51033
+12,State,Karnataka,106350
+13,State,Kerala,149099
+14,State,Madhya Pradesh,283881
+15,State,Maharashtra,394017
+16,State,Manipur,2349
+17,State,Meghalaya,2871
+18,State,Mizoram,1787
+19,State,Nagaland,1022
+20,State,Odisha,108533
+21,State,Punjab,49870
+22,State,Rajasthan,193279
+23,State,Sikkim,504
+24,State,Tamil Nadu,891700
+25,State,Telangana,135885
+26,State,Tripura,4010
+27,State,Uttar Pradesh,355110
+28,State,Uttarakhand,13812
+29,State,West Bengal,158060
+State,State,Total State(s),3969206
+30,Union Territory,A&N Islands,482
+31,Union Territory,Chandigarh,2583
+32,Union Territory,D&N Haveli,441
+33,Union Territory,Daman & Diu,441
+34,Union Territory,Delhi,249192
+35,Union Territory,Lakshadweep,107
+36,Union Territory,Puducherry,6725
+Union Territory,Union Territory,Total UT(s),285150
+Total All India,Total All India,Total All India,4254356
